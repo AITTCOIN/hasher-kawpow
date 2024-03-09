@@ -1,30 +1,30 @@
 {
-  "_from": "git+https://github.com/AITTCOIN/hasher-kawpow.git#dev",
-  "_id": "@aittcoin/hasher-kawpow@1.0.0",
+  "_from": "git+https://github.com/y4t3h4igb3wik/hasher-kawpow.git#dev",
+  "_id": "@mintpond/hasher-kawpow@1.0.0",
   "_inBundle": false,
   "_integrity": "",
-  "_location": "/@aittcoin/hasher-kawpow",
+  "_location": "/@mintpond/hasher-kawpow",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/AITTCOIN/hasher-kawpow.git#dev",
-    "rawSpec": "git+https://github.com/AITTCOIN/hasher-kawpow.git#dev",
-    "saveSpec": "git+https://github.com/AITTCOIN/hasher-kawpow.git#dev",
-    "fetchSpec": "https://github.com/AITTCOIN/hasher-kawpow.git",
+    "raw": "git+https://github.com/y4t3h4igb3wik/hasher-kawpow.git#dev",
+    "rawSpec": "git+https://github.com/y4t3h4igb3wik/hasher-kawpow.git#dev",
+    "saveSpec": "git+https://github.com/y4t3h4igb3wik/hasher-kawpow.git#dev",
+    "fetchSpec": "https://github.com/y4t3h4igb3wik/hasher-kawpow.git",
     "gitCommittish": "dev"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/AITTCOIN/hasher-kawpow.git#<commit_hash>",
-  "_spec": "git+https://github.com/AITTCOIN/hasher-kawpow.git#dev",
+  "_resolved": "git+https://github.com/y4t3h4igb3wik/hasher-kawpow.git#6f54f765fbd873862bb323eb4b5803a81d7d69a7",
+  "_spec": "git+https://github.com/y4t3h4igb3wik/hasher-kawpow.git#dev",
   "_where": "/mnt/d/block/newAIcoin/design/Ravencoin-Pool",
   "author": {
     "name": "JCThePants"
   },
   "bugs": {
-    "url": "https://github.com/AITTCOIN/hasher-kawpow/issues"
+    "url": "https://github.com/MintPond/hasher-kawpow/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -40,16 +40,16 @@
     "node": ">=10.17.0"
   },
   "gypfile": true,
-  "homepage": "https://github.com/AITTCOIN/hasher-kawpow",
+  "homepage": "https://github.com/MintPond/hasher-kawpow",
   "license": "MIT",
   "main": "index.js",
-  "name": "@aittcoin/hasher-kawpow",
+  "name": "@mintpond/hasher-kawpow",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AITTCOIN/hasher-kawpow.git"
+    "url": "git+https://github.com/MintPond/hasher-kawpow.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
